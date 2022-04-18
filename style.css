@@ -1,0 +1,23 @@
+header {
+    text-align: center;
+    background-color: lightblue;
+    padding: 3%;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+form.input-search input {
+    background-color: aliceblue;
+    width: 25%;
+    padding: 10px;
+    font-size: 15px;
+}
+
+form.input-search button {
+    width: 20%;
+    padding: 20px;
+    background-color: blue;
+    position: absolute;
+}
